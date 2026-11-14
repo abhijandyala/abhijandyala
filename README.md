@@ -25,8 +25,6 @@ Right now I'm building **[ValiqAI](https://valiqai.com)** as a solo technical fo
 
 I like taking hard ideas from a blank screen to a real product, across web development, browser automation, and applied machine learning. I've placed **Top 10 at YC VibeCon SF**, won hackathons in San Francisco, and shipped products real people use.
 
-🌐 **See all my projects, awards and journey on my personal website → [abhijandyala.com](https://abhijandyala.com)**
-
 ```text
 🤖  AI Agents & Browser Automation   ████████████████████   shipping @ ValiqAI
 🌐  Full-Stack SaaS                  ████████████████████   Next.js · React · FastAPI
@@ -40,12 +38,25 @@ I like taking hard ideas from a blank screen to a real product, across web devel
 
 ---
 
+## ✦ My Personal Website
+
+<div align="center">
+
+<a href="https://abhijandyala.com"><img src="./assets/website-tour.webp" width="100%" alt="A tour of abhijandyala.com: the node-graph hub, the Projects gallery, the Aegis project page, the Achievements gallery and the YC VibeCon Top 10 page"/></a>
+
+**🌐 [abhijandyala.com](https://abhijandyala.com)**: every project, award and story behind them, in one interactive map.
+
+[![Visit abhijandyala.com](https://img.shields.io/badge/Visit%20abhijandyala.com-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white)](https://abhijandyala.com)
+
+</div>
+
+---
+
 ## ✦ Experience
 
 | | Role | When |
 |---|---|---|
 | 🚀 | **Founder & CEO, [ValiqAI](https://valiqai.com)**: autonomous QA platform with browser agents and replayable bug evidence | Jan 2026 – Present |
-| 🤝 | **Co-Founder & CEO, VentraMatch**: AI that matches startups with investors by industry, stage, check size and thesis | Apr 2026 – Present |
 | 🧠 | **AI Innovator Intern, Bright Tier Solutions**: built the backend parsing system for RMS, which builds business websites in minutes | Dec 2025 – Present |
 
 ---
