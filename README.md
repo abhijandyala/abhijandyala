@@ -214,7 +214,7 @@ Uses real NASA asteroid data (size, speed, trajectory) to simulate impacts on Ea
 
 | | Award | When |
 |:-:|---|---|
-| 🎖️ | **Honorable Mention** · Open Agent Hackathon 2026<br/><sub>[Domino](https://dominoai.up.railway.app/) · builders from 138 countries · sponsored by NVIDIA, Zetaris, SpaceX AI and Meterless</sub> | Nov 2026 |
+| 🎖️ | **Honorable Mention** · Open Agent Hackathon 2026<br/><sub>[Domino](https://dominoai.up.railway.app/) · 3,000+ participants from 138 countries · sponsored by NVIDIA, Zetaris, SpaceX AI and Meterless</sub> | Nov 2026 |
 | 🥈 | **2nd Place Overall** · BananaHacks 2026<br/><sub>[SafeSight](https://safesight.up.railway.app/) · 800+ builders from 50+ countries</sub> | Oct 2026 |
 | 🏆 | **Top 10 Finalist** · Emergent × YC VibeCon SF 2026<br/><sub>[Booked](https://docs-build.emergent.host/) · ~5,000 applicants, presented at Y Combinator</sub> | Oct 2026 |
 | 🥇 | **1st Place · Best Use of RocketRide** · Memory Meets Motion Hackathon, SF<br/><sub>[Runbook](https://github.com/abhijandyala/runbook)</sub> | Aug 2026 |
