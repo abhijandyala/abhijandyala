@@ -241,8 +241,9 @@ Uses real NASA asteroid data (size, speed, trajectory) to simulate impacts on Ea
 ![Python](https://img.shields.io/badge/Python-7C3AED?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-2563EB?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-06B6D4?style=flat-square&logo=javascript&logoColor=white)
-![Luau](https://img.shields.io/badge/Luau-7C3AED?style=flat-square&logo=roblox&logoColor=white)
-![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-2563EB?style=flat-square&logo=html5&logoColor=white)
+![Lua / Luau](https://img.shields.io/badge/Lua%20%2F%20Luau-7C3AED?style=flat-square&logo=lua&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-2563EB?style=flat-square&logo=postgresql&logoColor=white)
+![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-06B6D4?style=flat-square&logo=html5&logoColor=white)
 
 **AI / ML**
 
@@ -250,32 +251,80 @@ Uses real NASA asteroid data (size, speed, trajectory) to simulate impacts on Ea
 ![OpenAI](https://img.shields.io/badge/OpenAI-2563EB?style=flat-square&logo=openai&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-06B6D4?style=flat-square&logo=langchain&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-7C3AED?style=flat-square&logo=pytorch&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLO--World-2563EB?style=flat-square&logo=yolo&logoColor=white)
-![NVIDIA](https://img.shields.io/badge/NVIDIA%20Nemotron-06B6D4?style=flat-square&logo=nvidia&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-7C3AED?style=flat-square&logoColor=white)
-![Reinforcement Learning](https://img.shields.io/badge/Reinforcement%20Learning-2563EB?style=flat-square&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-2563EB?style=flat-square)
+![Neural Networks](https://img.shields.io/badge/Neural%20Networks-06B6D4?style=flat-square)
+![Generative AI](https://img.shields.io/badge/Generative%20AI-7C3AED?style=flat-square)
+![LLMs](https://img.shields.io/badge/LLMs-2563EB?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-06B6D4?style=flat-square)
+![AI Agents](https://img.shields.io/badge/AI%20Agents-7C3AED?style=flat-square)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-2563EB?style=flat-square)
+![YOLO-World](https://img.shields.io/badge/YOLO--World-06B6D4?style=flat-square&logo=yolo&logoColor=white)
+![Object Detection](https://img.shields.io/badge/Object%20Detection-7C3AED?style=flat-square)
+![Model Fine-Tuning](https://img.shields.io/badge/Model%20Fine--Tuning-2563EB?style=flat-square)
+![Model Evaluation](https://img.shields.io/badge/Model%20Evaluation-06B6D4?style=flat-square)
+![Reinforcement Learning](https://img.shields.io/badge/Reinforcement%20Learning-7C3AED?style=flat-square)
+![Speech Recognition](https://img.shields.io/badge/Speech%20Recognition-2563EB?style=flat-square)
+![Anomaly Detection](https://img.shields.io/badge/Anomaly%20Detection-06B6D4?style=flat-square)
+![Predictive Modeling](https://img.shields.io/badge/Predictive%20Modeling-7C3AED?style=flat-square)
+![NVIDIA Nemotron](https://img.shields.io/badge/NVIDIA%20Nemotron-2563EB?style=flat-square&logo=nvidia&logoColor=white)
+![GPU Training (H100)](https://img.shields.io/badge/GPU%20Training%20%28H100%29-06B6D4?style=flat-square&logo=nvidia&logoColor=white)
+
+**Data & Simulation**
+
+![Data Analysis](https://img.shields.io/badge/Data%20Analysis-7C3AED?style=flat-square)
+![Data Visualization](https://img.shields.io/badge/Data%20Visualization-2563EB?style=flat-square)
+![Data Modeling](https://img.shields.io/badge/Data%20Modeling-06B6D4?style=flat-square)
+![Monte Carlo Simulation](https://img.shields.io/badge/Monte%20Carlo%20Simulation-7C3AED?style=flat-square)
+![Geospatial Data](https://img.shields.io/badge/Geospatial%20Data-2563EB?style=flat-square)
+![Scientific Computing](https://img.shields.io/badge/Scientific%20Computing-06B6D4?style=flat-square)
+![3D Visualization](https://img.shields.io/badge/3D%20Visualization-7C3AED?style=flat-square&logo=threedotjs&logoColor=white)
+![Dataset Annotation](https://img.shields.io/badge/Dataset%20Annotation-2563EB?style=flat-square)
+![Algorithms](https://img.shields.io/badge/Algorithms-06B6D4?style=flat-square)
 
 **Web & Automation**
 
-![Next.js](https://img.shields.io/badge/Next.js-2563EB?style=flat-square&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-06B6D4?style=flat-square&logo=react&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-7C3AED?style=flat-square&logo=vite&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-2563EB?style=flat-square&logo=tailwindcss&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer%20Motion-06B6D4?style=flat-square&logo=framer&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-7C3AED?style=flat-square&logo=threedotjs&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2563EB?style=flat-square&logo=playwright&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-7C3AED?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-2563EB?style=flat-square&logo=react&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-06B6D4?style=flat-square&logo=vite&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-7C3AED?style=flat-square&logo=tailwindcss&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer%20Motion-2563EB?style=flat-square&logo=framer&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-06B6D4?style=flat-square&logo=threedotjs&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-7C3AED?style=flat-square&logo=playwright&logoColor=white)
+![Software Testing](https://img.shields.io/badge/Software%20Testing-2563EB?style=flat-square)
 ![FastAPI](https://img.shields.io/badge/FastAPI-06B6D4?style=flat-square&logo=fastapi&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-7C3AED?style=flat-square&logo=express&logoColor=white)
 ![Hono](https://img.shields.io/badge/Hono-2563EB?style=flat-square&logo=hono&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-06B6D4?style=flat-square)
+![Full-Stack Development](https://img.shields.io/badge/Full--Stack%20Development-7C3AED?style=flat-square)
+![UX Design](https://img.shields.io/badge/UX%20Design-2563EB?style=flat-square)
 
-**Infra**
+**Infra & Data**
 
 ![Docker](https://img.shields.io/badge/Docker-06B6D4?style=flat-square&logo=docker&logoColor=white)
 ![Railway](https://img.shields.io/badge/Railway-7C3AED?style=flat-square&logo=railway&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-2563EB?style=flat-square&logo=vercel&logoColor=white)
 ![Vultr](https://img.shields.io/badge/Vultr-06B6D4?style=flat-square&logo=vultr&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-7C3AED?style=flat-square&logo=mongodb&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2563EB?style=flat-square&logo=githubactions&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-7C3AED?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-2563EB?style=flat-square&logo=mongodb&logoColor=white)
+![Zetaris](https://img.shields.io/badge/Zetaris-06B6D4?style=flat-square)
+![Meterless](https://img.shields.io/badge/Meterless-7C3AED?style=flat-square)
+![GitHub](https://img.shields.io/badge/GitHub-2563EB?style=flat-square&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-06B6D4?style=flat-square&logo=githubactions&logoColor=white)
+
+**Beyond the Code**
+
+![Entrepreneurship](https://img.shields.io/badge/Entrepreneurship-7C3AED?style=flat-square)
+![Startups](https://img.shields.io/badge/Startups-2563EB?style=flat-square)
+![Product Development](https://img.shields.io/badge/Product%20Development-06B6D4?style=flat-square)
+![SaaS](https://img.shields.io/badge/SaaS-7C3AED?style=flat-square)
+![Sales & Customer Acquisition](https://img.shields.io/badge/Sales%20%26%20Customer%20Acquisition-2563EB?style=flat-square)
+![Business Analysis](https://img.shields.io/badge/Business%20Analysis-06B6D4?style=flat-square)
+![Public Speaking](https://img.shields.io/badge/Public%20Speaking-7C3AED?style=flat-square)
+![Hackathons](https://img.shields.io/badge/Hackathons-2563EB?style=flat-square&logo=devpost&logoColor=white)
+![Game Development](https://img.shields.io/badge/Game%20Development-06B6D4?style=flat-square&logo=roblox&logoColor=white)
+![Robotics](https://img.shields.io/badge/Robotics-7C3AED?style=flat-square)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-2563EB?style=flat-square)
+![Community Service](https://img.shields.io/badge/Community%20Service-06B6D4?style=flat-square)
 
 ---
 
