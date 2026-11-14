@@ -42,7 +42,7 @@ I like taking hard ideas from a blank screen to a real product, across web devel
 
 <div align="center">
 
-<a href="https://abhijandyala.com"><img src="./assets/website-tour.webp" width="100%" alt="A tour of abhijandyala.com: the node-graph hub, the Projects gallery, the Aegis project page, the Achievements gallery and the YC VibeCon Top 10 page"/></a>
+<a href="https://abhijandyala.com"><img src="./assets/website-tour.avif" width="100%" alt="A tour of abhijandyala.com: the node-graph hub, the Projects gallery, the Aegis project page, the Achievements gallery and the YC VibeCon Top 10 page"/></a>
 
 **🌐 [abhijandyala.com](https://abhijandyala.com)**: every project, award and story behind them, in one interactive map.
 
@@ -70,7 +70,7 @@ I like taking hard ideas from a blank screen to a real product, across web devel
 ### 🧪 [ValiqAI](https://valiqai.com) &nbsp;·&nbsp; *what I'm building full-time*
 **Autonomous AI QA for web apps**
 
-<a href="https://valiqai.com"><img src="./assets/projects/valiqai-demo.gif" width="100%" alt="ValiqAI demo: a scan creates an account, runs live tests across the site, finds problems and scores the app"/></a>
+<a href="https://valiqai.com"><img src="./assets/projects/valiqai-demo.avif" width="100%" alt="ValiqAI demo: a scan creates an account, runs live tests across the site, finds problems and scores the app"/></a>
 <div align="center"><sub>▶ A real ValiqAI scan: paste a URL, watch agents test every flow live, then get each bug with a replay and how to fix it (2× speed)</sub></div>
 
 Real browsers that use your app like a user would: create accounts, verify emails, log in, walk through workflows, catch visual bugs and probe for security issues, without anyone scripting every path. Every failure comes back with replayable evidence.
@@ -162,8 +162,8 @@ Personalized acceptance odds built on real admissions data, plus college search,
 
 <a href="https://dominoai.up.railway.app/"><img src="./assets/projects/domino.jpg" width="100%" alt="Domino"/></a>
 
-### 🧩 [Domino](https://dominoai.up.railway.app/) · [repo](https://github.com/alleti01/Domino)
-**Pre-deployment failure investigation**
+### 🧩 [Domino](https://dominoai.up.railway.app/) · [repo](https://github.com/alleti01/Domino) · [deck](https://drive.google.com/drive/folders/1Z_MY50JCxxcAthWYgwo0o7ThD5bHBjmn?usp=sharing)
+**Tests a change against everything it touches, before it ships** · 🎖️ *Honorable Mention, Open Agent Hackathon*
 
 An AI agent that works out how one change could break connected systems before it ships, then tests the original, changed and reverted versions in isolated sandboxes to prove the cause.
 
@@ -195,6 +195,7 @@ Uses real NASA asteroid data (size, speed, trajectory) to simulate impacts on Ea
 
 | | Award | Event | Project | Date |
 |---|---|---|---|---|
+| 🎖️ | **Honorable Mention** | Open Agent Hackathon 2026 | [Domino](https://dominoai.up.railway.app/) | Nov 2026 |
 | 🥈 | **2nd Place Overall** | BananaHacks 2026 · 800+ builders, 50+ countries | [SafeSight](https://safesight.up.railway.app/) | Oct 2026 |
 | 🏆 | **Top 10 Finalist** | Emergent × YC VibeCon SF 2026 · ~5,000 applicants | [Booked](https://docs-build.emergent.host/) | Oct 2026 |
 | 🥇 | **1st Place · Best Use of RocketRide** | Memory Meets Motion Hackathon, SF | [Runbook](https://github.com/abhijandyala/runbook) | Aug 2026 |
