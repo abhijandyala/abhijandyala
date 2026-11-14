@@ -25,6 +25,8 @@ Right now I'm building **[ValiqAI](https://valiqai.com)** as a solo technical fo
 
 I like taking hard ideas from a blank screen to a real product, across web development, browser automation, and applied machine learning. I've placed **Top 10 at YC VibeCon SF**, won hackathons in San Francisco, and shipped products real people use.
 
+🌐 **See all my projects, awards and journey on my personal website → [abhijandyala.com](https://abhijandyala.com)**
+
 ```text
 🤖  AI Agents & Browser Automation   ████████████████████   shipping @ ValiqAI
 🌐  Full-Stack SaaS                  ████████████████████   Next.js · React · FastAPI
@@ -56,6 +58,9 @@ I like taking hard ideas from a blank screen to a real product, across web devel
 
 ### 🧪 [ValiqAI](https://valiqai.com) &nbsp;·&nbsp; *what I'm building full-time*
 **Autonomous AI QA for web apps**
+
+<a href="https://valiqai.com"><img src="./assets/projects/valiqai-demo.gif" width="100%" alt="ValiqAI demo: a scan creates an account, runs live tests across the site, finds problems and scores the app"/></a>
+<div align="center"><sub>▶ A real ValiqAI scan: paste a URL, watch agents test every flow live, then get each bug with a replay and how to fix it (2× speed)</sub></div>
 
 Real browsers that use your app like a user would: create accounts, verify emails, log in, walk through workflows, catch visual bugs and probe for security issues, without anyone scripting every path. Every failure comes back with replayable evidence.
 
@@ -264,7 +269,7 @@ Uses real NASA asteroid data (size, speed, trajectory) to simulate impacts on Ea
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhi-jandyala-7875a12a8/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://abhijandyala.com)
+[![Personal Website](https://img.shields.io/badge/abhijandyala.com-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://abhijandyala.com)
 [![ValiqAI](https://img.shields.io/badge/ValiqAI-06B6D4?style=for-the-badge&logo=rocket&logoColor=white)](https://valiqai.com)
 [![Email](https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhi@valiqai.com)
 [![Instagram](https://img.shields.io/badge/@abhij__journey-2563EB?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/abhij_journey/)
