@@ -285,7 +285,7 @@ Uses real NASA asteroid data (size, speed, trajectory) to simulate impacts on Ea
 
 <picture>
   <source media="(max-width: 600px)" srcset="https://streak-stats.demolab.com?user=abhijandyala&hide_border=true&background=0D1117&ring=8B5CF6&fire=22D3EE&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=A78BFA&sideLabels=A78BFA&dates=8B949E&stroke=30363D&card_width=340&card_height=200"/>
-  <img alt="GitHub streak stats" src="https://streak-stats.demolab.com?user=abhijandyala&hide_border=true&background=0D1117&ring=8B5CF6&fire=22D3EE&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=A78BFA&sideLabels=A78BFA&dates=8B949E&stroke=30363D" width="80%"/>
+  <img alt="GitHub streak stats" src="https://streak-stats.demolab.com?user=abhijandyala&hide_border=true&background=0D1117&ring=8B5CF6&fire=22D3EE&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=A78BFA&sideLabels=A78BFA&dates=8B949E&stroke=30363D" width="495"/>
 </picture>
 
 <br/><br/>
