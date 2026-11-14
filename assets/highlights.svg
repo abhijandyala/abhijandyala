@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="150" viewBox="0 0 860 150" role="img" aria-label="Top 10 at YC VibeCon SF 2026, 4x hackathon winner, 350+ students on ChancifyAI, $50K invested in ValiqAI">
+  <defs>
+    <linearGradient id="num" x1="0" y1="0" x2="1" y2="0" spreadMethod="reflect">
+      <stop offset="0" stop-color="#A78BFA"/>
+      <stop offset="0.5" stop-color="#22D3EE"/>
+      <stop offset="1" stop-color="#A78BFA"/>
+      <animateTransform attributeName="gradientTransform" type="translate" from="-1 0" to="1 0" dur="6s" repeatCount="indefinite"/>
+    </linearGradient>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#7C3AED" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#22D3EE"/>
+      <stop offset="1" stop-color="#7C3AED" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <style>
+    .tile { opacity: 0; animation: rise .9s cubic-bezier(.2,.7,.2,1) forwards; }
+    .t1 { animation-delay: .10s; } .t2 { animation-delay: .30s; }
+    .t3 { animation-delay: .50s; } .t4 { animation-delay: .70s; }
+    @keyframes rise { from { opacity: 0; transform: translateY(16px); } to { opacity: 1; transform: translateY(0); } }
+    .box { fill: #0D1117; stroke: #30363D; stroke-width: 1; }
+    .n { font: 800 38px -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; fill: url(#num); letter-spacing: -1px; }
+    .l { font: 600 14px -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; fill: #E6EDF3; }
+    .s { font: 400 12px -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; fill: #8B949E; }
+    .glow { animation: sweep 4s ease-in-out infinite; }
+    @keyframes sweep { 0%, 100% { opacity: .25; } 50% { opacity: 1; } }
+  </style>
+
+  <g class="tile t1">
+    <rect class="box" x="2" y="2" width="203" height="146" rx="14"/>
+    <rect class="glow" x="30" y="2" width="147" height="2" fill="url(#edge)"/>
+    <text class="n" x="24" y="66">Top 10</text>
+    <text class="l" x="24" y="98">YC VibeCon SF 2026</text>
+    <text class="s" x="24" y="120">of ~5,000 applicants</text>
+  </g>
+  <g class="tile t2">
+    <rect class="box" x="220" y="2" width="203" height="146" rx="14"/>
+    <rect class="glow" x="248" y="2" width="147" height="2" fill="url(#edge)" style="animation-delay:1s"/>
+    <text class="n" x="242" y="66">4×</text>
+    <text class="l" x="242" y="98">Hackathon winner</text>
+    <text class="s" x="242" y="120">SF · global · national</text>
+  </g>
+  <g class="tile t3">
+    <rect class="box" x="438" y="2" width="203" height="146" rx="14"/>
+    <rect class="glow" x="466" y="2" width="147" height="2" fill="url(#edge)" style="animation-delay:2s"/>
+    <text class="n" x="460" y="66">350+</text>
+    <text class="l" x="460" y="98">Students on ChancifyAI</text>
+    <text class="s" x="460" y="120">AI admissions predictor</text>
+  </g>
+  <g class="tile t4">
+    <rect class="box" x="656" y="2" width="202" height="146" rx="14"/>
+    <rect class="glow" x="684" y="2" width="146" height="2" fill="url(#edge)" style="animation-delay:3s"/>
+    <text class="n" x="678" y="66">$50K</text>
+    <text class="l" x="678" y="98">Invested in ValiqAI</text>
+    <text class="s" x="678" y="120">Autonomous QA platform</text>
+  </g>
+</svg>
