@@ -99,26 +99,26 @@ Answers calls, qualifies leads, books appointments and learns about customers ov
 <tr>
 <td>
 
-### [Domino](https://dominoai.up.railway.app/) · [repo](https://github.com/alleti01/Domino) · [deck](https://drive.google.com/drive/folders/1Z_MY50JCxxcAthWYgwo0o7ThD5bHBjmn?usp=sharing)
-<a href="https://dominoai.up.railway.app/"><img src="./assets/projects/domino.jpg" align="right" width="44%" hspace="10" alt="Domino"/></a>
-**Finds what a code change will break, before it ships** · *Honorable Mention, Open Agent Hackathon*
+### [SafeSight](https://safesight.up.railway.app/) · [repo](https://github.com/alleti01/SafeSight)
+<a href="https://safesight.up.railway.app/"><img src="./assets/projects/safesight.jpg" align="right" width="44%" hspace="10" alt="SafeSight"/></a>
+**Home safety for people living with dementia** · *2nd Overall, BananaHacks*
 
-Inspired by the Cloudflare and CrowdStrike outages: an AI agent that tests a change against everything it touches, running the original, changed and reverted versions in throwaway sandboxes to prove the cause.
+Film a room, and it finds what could confuse or trip someone. Fine-tuned **YOLO-World on an H100** over ~55K images, raising objects found per room on unseen homes from **42% to 78%**. People in videos are blurred and uploads are deleted after analysis.
 
-`NVIDIA Nemotron` `Zetaris` `Meterless` `TypeScript`
+`YOLO-World` `PyTorch` `Computer Vision` `Privacy`
 
 </td>
 </tr>
 <tr>
 <td>
 
-### [SafeSight](https://safesight.up.railway.app/) · [repo](https://github.com/alleti01/SafeSight)
-<a href="https://safesight.up.railway.app/"><img src="./assets/projects/safesight.jpg" align="left" width="44%" hspace="10" alt="SafeSight"/></a>
-**Home safety for people living with dementia** · *2nd Overall, BananaHacks*
+### [Domino](https://dominoai.up.railway.app/) · [repo](https://github.com/alleti01/Domino) · [deck](https://drive.google.com/drive/folders/1Z_MY50JCxxcAthWYgwo0o7ThD5bHBjmn?usp=sharing)
+<a href="https://dominoai.up.railway.app/"><img src="./assets/projects/domino.jpg" align="left" width="44%" hspace="10" alt="Domino"/></a>
+**Finds what a code change will break, before it ships** · *Honorable Mention, Open Agent Hackathon*
 
-Film a room, and it finds what could confuse or trip someone. Fine-tuned **YOLO-World on an H100** over ~55K images, raising objects found per room on unseen homes from **42% to 78%**. People in videos are blurred and uploads are deleted after analysis.
+Inspired by the Cloudflare and CrowdStrike outages: an AI agent that tests a change against everything it touches, running the original, changed and reverted versions in throwaway sandboxes to prove the cause.
 
-`YOLO-World` `PyTorch` `Computer Vision` `Privacy`
+`NVIDIA Nemotron` `Zetaris` `Meterless` `TypeScript`
 
 </td>
 </tr>
