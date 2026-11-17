@@ -86,32 +86,6 @@ Your eyes are the cursor. Type only the first letter of each word and Vocari spe
 <tr>
 <td>
 
-### [SpeakNow](https://www.usespeaknow.com/)
-<a href="https://www.usespeaknow.com/"><img src="./assets/projects/speaknow.jpg" align="left" width="44%" hspace="10" alt="SpeakNow"/></a>
-**AI public speaking coach** · <sub>Aug 2026 – Now</sub>
-
-Practice a speech in front of a **panel of 6 AI judges** and get a scored report on delivery, pacing and clarity. End-to-end recording, analysis, scoring and progress tracking.
-
-`LLMs` `Speech Analysis` `Full-Stack`
-
-</td>
-</tr>
-<tr>
-<td>
-
-### [Aegis](https://aegisisr.up.railway.app/)
-<a href="https://aegisisr.up.railway.app/"><img src="./assets/projects/aegis.jpg" align="right" width="44%" hspace="10" alt="Aegis"/></a>
-**Maritime dark-vessel intelligence** · <sub>Jul 2026 – Now</sub>
-
-Tracks ships from live AIS data and flags identity changes, geofence violations and dark-vessel activity. Kalman filtering plus **600-run Monte Carlo simulations** predict where vessels are heading across 10 high-traffic regions.
-
-`Python` `Kalman Filter` `Monte Carlo` `Geospatial`
-
-</td>
-</tr>
-<tr>
-<td>
-
 ### [Booked](https://docs-build.emergent.host/)
 <a href="https://docs-build.emergent.host/"><img src="./assets/projects/booked.jpg" align="left" width="44%" hspace="10" alt="Booked"/></a>
 **AI salesperson for small businesses** · *Top 10, YC VibeCon SF*
@@ -125,8 +99,21 @@ Answers calls, qualifies leads, books appointments and learns about customers ov
 <tr>
 <td>
 
+### [Domino](https://dominoai.up.railway.app/) · [repo](https://github.com/alleti01/Domino) · [deck](https://drive.google.com/drive/folders/1Z_MY50JCxxcAthWYgwo0o7ThD5bHBjmn?usp=sharing)
+<a href="https://dominoai.up.railway.app/"><img src="./assets/projects/domino.jpg" align="right" width="44%" hspace="10" alt="Domino"/></a>
+**Finds what a code change will break, before it ships** · *Honorable Mention, Open Agent Hackathon*
+
+Inspired by the Cloudflare and CrowdStrike outages: an AI agent that tests a change against everything it touches, running the original, changed and reverted versions in throwaway sandboxes to prove the cause.
+
+`NVIDIA Nemotron` `Zetaris` `Meterless` `TypeScript`
+
+</td>
+</tr>
+<tr>
+<td>
+
 ### [SafeSight](https://safesight.up.railway.app/) · [repo](https://github.com/alleti01/SafeSight)
-<a href="https://safesight.up.railway.app/"><img src="./assets/projects/safesight.jpg" align="right" width="44%" hspace="10" alt="SafeSight"/></a>
+<a href="https://safesight.up.railway.app/"><img src="./assets/projects/safesight.jpg" align="left" width="44%" hspace="10" alt="SafeSight"/></a>
 **Home safety for people living with dementia** · *2nd Overall, BananaHacks*
 
 Film a room, and it finds what could confuse or trip someone. Fine-tuned **YOLO-World on an H100** over ~55K images, raising objects found per room on unseen homes from **42% to 78%**. People in videos are blurred and uploads are deleted after analysis.
@@ -138,13 +125,26 @@ Film a room, and it finds what could confuse or trip someone. Fine-tuned **YOLO-
 <tr>
 <td>
 
-### [Domino](https://dominoai.up.railway.app/) · [repo](https://github.com/alleti01/Domino) · [deck](https://drive.google.com/drive/folders/1Z_MY50JCxxcAthWYgwo0o7ThD5bHBjmn?usp=sharing)
-<a href="https://dominoai.up.railway.app/"><img src="./assets/projects/domino.jpg" align="left" width="44%" hspace="10" alt="Domino"/></a>
-**Finds what a code change will break, before it ships** · *Honorable Mention, Open Agent Hackathon*
+### [SpeakNow](https://www.usespeaknow.com/)
+<a href="https://www.usespeaknow.com/"><img src="./assets/projects/speaknow.jpg" align="right" width="44%" hspace="10" alt="SpeakNow"/></a>
+**AI public speaking coach** · <sub>Aug 2026 – Now</sub>
 
-Inspired by the Cloudflare and CrowdStrike outages: an AI agent that tests a change against everything it touches, running the original, changed and reverted versions in throwaway sandboxes to prove the cause.
+Practice a speech in front of a **panel of 6 AI judges** and get a scored report on delivery, pacing and clarity. End-to-end recording, analysis, scoring and progress tracking.
 
-`NVIDIA Nemotron` `Zetaris` `Meterless` `TypeScript`
+`LLMs` `Speech Analysis` `Full-Stack`
+
+</td>
+</tr>
+<tr>
+<td>
+
+### [Aegis](https://aegisisr.up.railway.app/)
+<a href="https://aegisisr.up.railway.app/"><img src="./assets/projects/aegis.jpg" align="left" width="44%" hspace="10" alt="Aegis"/></a>
+**Maritime dark-vessel intelligence** · <sub>Jul 2026 – Now</sub>
+
+Tracks ships from live AIS data and flags identity changes, geofence violations and dark-vessel activity. Kalman filtering plus **600-run Monte Carlo simulations** predict where vessels are heading across 10 high-traffic regions.
+
+`Python` `Kalman Filter` `Monte Carlo` `Geospatial`
 
 </td>
 </tr>
