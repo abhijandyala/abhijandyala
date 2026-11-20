@@ -26,8 +26,8 @@ I like taking hard ideas from a blank screen to a real product, across web devel
 </picture>
 <br/><br/>
 <picture>
-  <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/abhijandyala/abhijandyala/main/assets/highlights-mobile.svg"/>
-  <img src="./assets/highlights.svg" width="100%" alt="Top 10 at YC VibeCon SF 2026 · 5× hackathon winner · 350+ students on ChancifyAI · $50K invested in ValiqAI"/>
+  <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/abhijandyala/abhijandyala/main/assets/stats-mobile.svg"/>
+  <img src="./assets/stats.svg" width="100%" alt="Top 10 at YC VibeCon SF 2026 · 5× hackathon winner · 350+ students on ChancifyAI · $50K invested in ValiqAI"/>
 </picture>
 </div>
 
