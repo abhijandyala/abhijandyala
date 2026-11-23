@@ -73,8 +73,21 @@ Real browsers that use your app like a user would: create accounts, verify email
 <tr>
 <td>
 
+### [A.C.R.E](https://github.com/abhijandyala/sa2026)
+<a href="https://github.com/abhijandyala/sa2026"><img src="./assets/projects/acre.jpg" align="right" width="44%" hspace="10" alt="A.C.R.E: a 10-year crop plan replayed through 45 years of NASA weather"/></a>
+**Test a crop plan before you plant it** · *2nd Place, NASA Space Apps Regionals*
+
+The Agricultural Climate Replay Engine: a farmer marks a field on a satellite map, says what they grow and when, and A.C.R.E replays that plan through **45 years of NASA weather** for that exact spot. It shows how often planting would be too dry or too wet, likely harvest and income, and the tightest cash months, then lets them compare rotations and leave with a dated **10-year plan**. Works on a phone, in any language, with no account.
+
+`NASA POWER API` `MERRA-2` `Data Analysis` `Web Development`
+
+</td>
+</tr>
+<tr>
+<td>
+
 ### [Vocari](https://devpost.com/software/vocari) · [demo](https://www.youtube.com/watch?v=HFialkpQRdE)
-<a href="https://devpost.com/software/vocari"><img src="./assets/projects/vocari.jpg" align="right" width="44%" hspace="10" alt="Vocari: an eye-controlled keyboard that turns first letters into full sentences"/></a>
+<a href="https://devpost.com/software/vocari"><img src="./assets/projects/vocari.jpg" align="left" width="44%" hspace="10" alt="Vocari: an eye-controlled keyboard that turns first letters into full sentences"/></a>
 **Gives a voice back to people who can't speak** · *1st Stripe Track, 3rd Overall, VexoHacks*
 
 Your eyes are the cursor. Type only the first letter of each word and Vocari speaks the whole sentence: a fine-tuned **NVIDIA Nemotron** model runs on the laptop and suggests 3 full sentences, even offline, using what your Vexo band heard earlier in the day. **DO mode** opens the web and buys anything with Stripe, and nothing is paid until you press PAY.
@@ -87,7 +100,7 @@ Your eyes are the cursor. Type only the first letter of each word and Vocari spe
 <td>
 
 ### [Booked](https://docs-build.emergent.host/)
-<a href="https://docs-build.emergent.host/"><img src="./assets/projects/booked.jpg" align="left" width="44%" hspace="10" alt="Booked"/></a>
+<a href="https://docs-build.emergent.host/"><img src="./assets/projects/booked.jpg" align="right" width="44%" hspace="10" alt="Booked"/></a>
 **AI salesperson for small businesses** · *Top 10, YC VibeCon SF*
 
 Answers calls, qualifies leads, books appointments and learns about customers over time. We landed our **first paying customer ($30/month) within 48 hours** of the hackathon.
@@ -100,7 +113,7 @@ Answers calls, qualifies leads, books appointments and learns about customers ov
 <td>
 
 ### [SafeSight](https://safesight.up.railway.app/) · [repo](https://github.com/alleti01/SafeSight)
-<a href="https://safesight.up.railway.app/"><img src="./assets/projects/safesight.jpg" align="right" width="44%" hspace="10" alt="SafeSight"/></a>
+<a href="https://safesight.up.railway.app/"><img src="./assets/projects/safesight.jpg" align="left" width="44%" hspace="10" alt="SafeSight"/></a>
 **Home safety for people living with dementia** · *2nd Overall, BananaHacks*
 
 Film a room, and it finds what could confuse or trip someone. Fine-tuned **YOLO-World on an H100** over ~55K images, raising objects found per room on unseen homes from **42% to 78%**. People in videos are blurred and uploads are deleted after analysis.
@@ -113,7 +126,7 @@ Film a room, and it finds what could confuse or trip someone. Fine-tuned **YOLO-
 <td>
 
 ### [Domino](https://dominoai.up.railway.app/) · [repo](https://github.com/alleti01/Domino) · [deck](https://drive.google.com/drive/folders/1Z_MY50JCxxcAthWYgwo0o7ThD5bHBjmn?usp=sharing)
-<a href="https://dominoai.up.railway.app/"><img src="./assets/projects/domino.jpg" align="left" width="44%" hspace="10" alt="Domino"/></a>
+<a href="https://dominoai.up.railway.app/"><img src="./assets/projects/domino.jpg" align="right" width="44%" hspace="10" alt="Domino"/></a>
 **Finds what a code change will break, before it ships** · *Honorable Mention, Open Agent Hackathon*
 
 Inspired by the Cloudflare and CrowdStrike outages: an AI agent that tests a change against everything it touches, running the original, changed and reverted versions in throwaway sandboxes to prove the cause.
@@ -126,7 +139,7 @@ Inspired by the Cloudflare and CrowdStrike outages: an AI agent that tests a cha
 <td>
 
 ### [SpeakNow](https://www.usespeaknow.com/)
-<a href="https://www.usespeaknow.com/"><img src="./assets/projects/speaknow.jpg" align="right" width="44%" hspace="10" alt="SpeakNow"/></a>
+<a href="https://www.usespeaknow.com/"><img src="./assets/projects/speaknow.jpg" align="left" width="44%" hspace="10" alt="SpeakNow"/></a>
 **AI public speaking coach** · <sub>Aug 2026 – Now</sub>
 
 Practice a speech in front of a **panel of 6 AI judges** and get a scored report on delivery, pacing and clarity. End-to-end recording, analysis, scoring and progress tracking.
@@ -139,7 +152,7 @@ Practice a speech in front of a **panel of 6 AI judges** and get a scored report
 <td>
 
 ### [Aegis](https://aegisisr.up.railway.app/)
-<a href="https://aegisisr.up.railway.app/"><img src="./assets/projects/aegis.jpg" align="left" width="44%" hspace="10" alt="Aegis"/></a>
+<a href="https://aegisisr.up.railway.app/"><img src="./assets/projects/aegis.jpg" align="right" width="44%" hspace="10" alt="Aegis"/></a>
 **Maritime dark-vessel intelligence** · <sub>Jul 2026 – Now</sub>
 
 Tracks ships from live AIS data and flags identity changes, geofence violations and dark-vessel activity. Kalman filtering plus **600-run Monte Carlo simulations** predict where vessels are heading across 10 high-traffic regions.
@@ -152,7 +165,7 @@ Tracks ships from live AIS data and flags identity changes, geofence violations 
 <td>
 
 ### [GhostThread](https://github.com/abhijandyala/ghostthread)
-<a href="https://github.com/abhijandyala/ghostthread"><img src="./assets/projects/ghostthread.jpg" align="right" width="44%" hspace="10" alt="GhostThread"/></a>
+<a href="https://github.com/abhijandyala/ghostthread"><img src="./assets/projects/ghostthread.jpg" align="left" width="44%" hspace="10" alt="GhostThread"/></a>
 **Feedback in, shipped fixes out** · *3× 1st Place, Agents Love You 2*
 
 An AI agent that joins Slack, Gmail, Linear and GitHub, finds customer complaints that never became tracked work, files the ticket, makes the code change and opens the PR.
@@ -165,7 +178,7 @@ An AI agent that joins Slack, Gmail, Linear and GitHub, finds customer complaint
 <td>
 
 ### [ChancifyAI](https://www.chancifyai.com/)
-<a href="https://www.chancifyai.com/"><img src="./assets/projects/chancifyai.jpg" align="left" width="44%" hspace="10" alt="ChancifyAI"/></a>
+<a href="https://www.chancifyai.com/"><img src="./assets/projects/chancifyai.jpg" align="right" width="44%" hspace="10" alt="ChancifyAI"/></a>
 **College admissions predictor** · *4th, Congressional App Challenge*
 
 Personalized acceptance odds built on real admissions data, plus college search, profile analysis and an AI college assistant. Used by **350+ students**.
@@ -178,7 +191,7 @@ Personalized acceptance odds built on real admissions data, plus college search,
 <td>
 
 ### [Meteor Madness](https://nasahackathon.up.railway.app/)
-<a href="https://nasahackathon.up.railway.app/"><img src="./assets/projects/meteor-madness.jpg" align="right" width="44%" hspace="10" alt="Meteor Madness"/></a>
+<a href="https://nasahackathon.up.railway.app/"><img src="./assets/projects/meteor-madness.jpg" align="left" width="44%" hspace="10" alt="Meteor Madness"/></a>
 **NASA Space Apps asteroid simulator**
 
 Uses real NASA asteroid data (size, speed, trajectory) to simulate impacts on Earth in an interactive **3D** visualization.
@@ -198,6 +211,7 @@ Uses real NASA asteroid data (size, speed, trajectory) to simulate impacts on Ea
 | Award | Date |
 |---|---|
 | **1st Place, Stripe Track · 3rd Place Overall** · VexoHacks 2026 at Y Combinator<br/><sub>[Vocari](https://devpost.com/software/vocari) · $3K Stripe credits, $1K OpenAI credits and Ray-Ban Meta glasses</sub> | Nov 2026 |
+| **2nd Place** · NASA Space Apps Challenge Regionals 2026<br/><sub>[A.C.R.E](https://github.com/abhijandyala/sa2026) · crop plans tested against 45 years of NASA weather</sub> | Nov 2026 |
 | **Honorable Mention** · Open Agent Hackathon 2026<br/><sub>[Domino](https://dominoai.up.railway.app/) · 3,000+ participants from 138 countries · sponsored by NVIDIA, Zetaris, SpaceX AI and Meterless</sub> | Nov 2026 |
 | **2nd Place Overall** · BananaHacks 2026<br/><sub>[SafeSight](https://safesight.up.railway.app/) · 800+ builders from 50+ countries</sub> | Oct 2026 |
 | **Top 10 Finalist** · Emergent × YC VibeCon SF 2026<br/><sub>[Booked](https://docs-build.emergent.host/) · ~5,000 applicants, presented at Y Combinator</sub> | Oct 2026 |
